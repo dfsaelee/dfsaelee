@@ -1,4 +1,4 @@
-## Hellooooo 😉
+## Hello 🤝
 I'm Darren, a Computer Engineering student at UCLA.
 
 This is a sort of portfolio and a log of my programming journey.
